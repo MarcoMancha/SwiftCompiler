@@ -1,0 +1,3 @@
+// Prueba que pasara a pesar de que la semantica es incorrecta
+
+var a : Int = "hello"

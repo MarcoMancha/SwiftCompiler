@@ -1,0 +1,13 @@
+[
+  [
+    "VAR_DECL", 
+    "let", 
+    [
+      "REST_DECL", 
+      "a", 
+      "String", 
+      "\"Hola esta es la 4ta prueba\""
+    ]
+  ], 
+  null
+]

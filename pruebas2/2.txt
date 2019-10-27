@@ -1,0 +1,2 @@
+// Programa con definición de constante
+let a : String = "Hola esta es la 4ta prueba"

@@ -1,0 +1,7 @@
+1. Descargar directorio ply (python-lex-yacc al mismo nivel que los archivos)
+
+2. Correr yacc.py -> python yacc.py 
+
+3. El código será desplegado dependiendo la prueba y si hay algún error se mostrará en la prueba
+
+4. Cada AST está dentro de la carpeta donde se encuentran los archivos de prueba (prueba/ o prueba2/)

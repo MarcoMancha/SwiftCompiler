@@ -1,0 +1,12 @@
+// Prueba demostrando que si un metodo o una clase no es definido, marca el error
+
+class MyClass{
+    static func function1() {
+        print(e)
+    }
+}
+
+var a = MyClass()
+var b = MyClas()
+var d = a.function1()
+var e = a.function2()

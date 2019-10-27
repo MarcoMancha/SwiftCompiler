@@ -1,0 +1,9 @@
+// Programa con cadena, variable y constante en lugar no permitido
+
+var h = 10
+if(h > 10){
+    let i = var d = 2
+}else{
+    print(var e = "cadena2")
+    var g = readLine(let f = True)
+}

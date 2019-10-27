@@ -1,0 +1,8 @@
+// Programa con un ciclo y una condicional
+var a = 5
+var b = 0
+while(a > 0){
+    if(a == 3){
+      var d = a + b
+    }
+}

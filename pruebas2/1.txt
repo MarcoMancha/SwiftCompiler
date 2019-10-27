@@ -1,0 +1,3 @@
+// Programa con definición de variable
+var a : Int = 0
+print(a)

@@ -1,0 +1,13 @@
+// Prueba para demostrar que se marca el error cuando se usa una variable fuera de alcance
+
+var a : Int = 0
+
+if(a > 0){
+    var c = 0
+}
+
+if(a < 0){
+    if(a == 0){
+        print(c)
+    }
+}

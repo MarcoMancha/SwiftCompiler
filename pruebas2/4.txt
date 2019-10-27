@@ -1,0 +1,21 @@
+// Programa con todas las instrucciones definidas
+
+var a : Int = 10
+var b = True
+let c = readLine()
+
+while(a > 0){
+  while(a != 0){
+    var b = a
+  }
+}
+
+if(b == 0){
+  let d : String = "Cadena1"
+  print(d)
+}else{
+  if(a < 0){
+    let d : String = "Cadena2"
+    print(d)
+  }
+}

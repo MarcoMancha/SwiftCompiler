@@ -1,0 +1,7 @@
+// Programa con variables de todos los tipos
+var a = 1
+var b : Int = 2
+var c = True
+var d : Bool = False
+var e : String = "Variable String"
+var f = "Variable 2 String"

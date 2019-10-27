@@ -1,0 +1,31 @@
+[
+  [
+    "VAR_DECL", 
+    "var", 
+    [
+      "REST_DECL", 
+      "b", 
+      null, 
+      0
+    ]
+  ], 
+  [
+    [
+      "OUTPUT", 
+      "a"
+    ], 
+    [
+      [
+        "VAR_DECL", 
+        "var", 
+        [
+          "REST_DECL", 
+          "a", 
+          null, 
+          0
+        ]
+      ], 
+      null
+    ]
+  ]
+]

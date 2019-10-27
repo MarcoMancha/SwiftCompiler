@@ -1,0 +1,5 @@
+// Programa con definición de variable en lugar incorrecto
+
+if(var a = 0){
+    print(a)
+}

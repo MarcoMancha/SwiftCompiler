@@ -1,0 +1,5 @@
+// Programa con definición de variable en orden incorrecto
+
+var b = 0
+print(a)
+var a = 0

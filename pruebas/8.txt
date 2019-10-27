@@ -1,0 +1,4 @@
+// Programa sencillo usando instrucciones de entrada y salida
+var a = 0
+a = readLine()
+print(a)

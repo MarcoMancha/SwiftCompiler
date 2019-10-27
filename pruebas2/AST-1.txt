@@ -1,0 +1,19 @@
+[
+  [
+    "VAR_DECL", 
+    "var", 
+    [
+      "REST_DECL", 
+      "a", 
+      "Int", 
+      0
+    ]
+  ], 
+  [
+    [
+      "OUTPUT", 
+      "a"
+    ], 
+    null
+  ]
+]

@@ -1,0 +1,5 @@
+// Programa sencillo con ciclo usando una gramática incorrecta
+var a = 10
+while{
+ var b = a
+}

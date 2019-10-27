@@ -1,0 +1,13 @@
+[
+  [
+    "VAR_DECL", 
+    "var", 
+    [
+      "REST_DECL", 
+      "a", 
+      "Int", 
+      "\"hello\""
+    ]
+  ], 
+  null
+]

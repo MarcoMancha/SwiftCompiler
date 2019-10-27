@@ -1,0 +1,3 @@
+// Programa sencillo con cadenas
+var a = "Esto es una cadena"
+print(a)
